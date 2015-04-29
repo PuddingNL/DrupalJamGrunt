@@ -1,0 +1,14 @@
+/**
+ * Main Sass files
+ */
+body h1 {
+  font-size: 21px;
+  color: "blue";
+  line-height: 1.25;
+}
+
+body p {
+  width: 250px;
+}
+
+/*# sourceMappingURL=style.css.map */

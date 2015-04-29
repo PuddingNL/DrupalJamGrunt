@@ -1,0 +1,32 @@
+// Colors
+$white  : 'white';
+$blue   : 'blue';
+$red    : 'red';
+$green  : 'green';
+
+// Main elements
+$menuBack : $blue;
+$menuFont : $white;
+
+// Titles
+$h1Color   : $red;
+$h2Color   : $blue;
+$h3Color   : $blue;
+
+%h1-title {
+  font-size: 21px;
+  color: $h1Color;
+  line-height: 1.25;
+}
+
+%h2-title {
+  font-size: 19px;
+  color: $h2Color;
+  line-height: 1.25;
+}
+
+%h3-title {
+  font-size: 17px;
+  color: $h3Color;
+  line-height: 1.25;
+}

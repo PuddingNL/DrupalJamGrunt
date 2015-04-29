@@ -1,0 +1,15 @@
+/**
+ * Main Sass files
+ */
+
+@import "config";
+
+html, body {
+  h1 {
+    @extend %h1-title;
+  }
+
+  p {
+    width: 250px;
+  }
+}
